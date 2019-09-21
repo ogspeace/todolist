@@ -1,0 +1,7 @@
+from django.db import models
+
+
+    completed = models.BooleanField(default=False)
+
+        return self.item
+
